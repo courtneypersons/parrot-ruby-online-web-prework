@@ -2,14 +2,10 @@
 # returns the phrase
 
 
-def parrot(phase = "Squawk")
+def parrot(phase = "Squawk!")
 
 puts "#{phase}"
 
 "phase"
 
 end
-
-
-
-
