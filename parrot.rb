@@ -7,4 +7,9 @@ def parrot(phase = "Squawk")
 puts "#{phase}"
 
 "phase"
-ends
+
+end
+
+
+
+
