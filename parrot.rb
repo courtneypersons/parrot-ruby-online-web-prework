@@ -4,6 +4,7 @@
 
 def parrot(phase = "Squawk")
 
-return Squawk
+puts "phase"
 
+"phase"
 ends
