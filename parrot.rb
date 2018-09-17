@@ -6,6 +6,6 @@ def parrot(phase = "Squawk!")
 
 puts "#{phase}"
 
-"phase"
+return phase
 
 end
